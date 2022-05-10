@@ -1,0 +1,44 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  .title{
+    font-family: 'Belleza', sans-serif;
+    
+  }
+  .title2{
+    font-family: 'Roboto Flex', sans-serif;
+    font-weight: 700;
+  }
+  .lite2{
+    font-family: 'Roboto Flex', sans-serif;
+    font-weight: 200;
+  }
+  .title3{
+    font-family: 'Playfair Display', serif;
+  }
+  .body{
+    font-family: "Lato", Helvetica, Arial, sans-serif; 
+    font-weight: 500;
+  }
+  .body-lite{
+    font-family: "Lato", Helvetica, Arial, sans-serif; 
+    font-weight: 300;
+    font-style: italic;
+  }
+  .bg_blue{
+    background-color: #38b6ff;
+  }
+  .bg_green{
+  background-color: #7ed957;
+  }
+  .bg_blue2{
+      background-color: #5271ff;
+  }
+  .bg_pink{
+      background-color: #ff66c4;
+  }
+  .bg_purple{
+      background-color: #cb6ce6
+  }
+  
